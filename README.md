@@ -1,44 +1,77 @@
-- **Current Focus:** Advanced System Design, React.js, and Backend Architectures.
-- **Goals:** Building high-impact software solutions and contributing to open-source AI projects.
-- **Education:** B.Tech in Computer Science and Engineering.
+<p align="center">
+  <!-- Replace the src below with your own banner image URL if you have one -->
+  <img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=Your+Name+Here" alt="Profile Banner" width="100%">
+</p>
 
 ---
 
-### Tech Stack
+### ⚡ Technical Philosophy
 
-**Web Development** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data Science & Machine Learning** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-**Databases & Systems** &nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+> "Building at the intersection of robust web architecture and intelligent data systems. I focus on creating tools that don't just display data, but understand it."
 
 ---
 
-### Performance Metrics
+### 🛠️ Core Engineering Stack
+
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | `Python`, `Java`, `C`, `JavaScript` |
+| **Frontend** | `HTML5`, `CSS3`, `Modern JS` |
+| **Specialized** | `Deep Learning (CNN)`, `OpenCV`, `Data Analysis` |
+
+---
+
+### 🚀 Featured Engineering Projects
+
+| 🔥 Early Forest Fire Detection System | 👤 FaceRec Attendance + Mail |
+| :--- | :--- |
+| An AI/ML-based system that detects early signs of forest fires using **computer vision and deep learning** on satellite and CCTV imagery. Provides real-time alerts to help prevent large-scale environmental damage.<br><br><i>Python • Machine Learning • Computer Vision • OpenCV</i> | Automated security system utilizing **OpenCV** for real-time face recognition. Features an integrated SMTP trigger for instant email notifications upon detection.<br><br><i>Python • OpenCV • Automation</i> |
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent&title_color=007bec&icon_color=007bec&text_color=9f9f9f&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=transparent&title_color=007bec&text_color=9f9f9f&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,tensorflow,opencv,pandas,git,github,vscode" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <!-- This generates the contribution snake animation. Make sure to setup the GitHub Action for it, or replace with a static image -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Analytics Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&title_color=007bec&text_color=9f9f9f&icon_color=007bec&hide_border=true" alt="GitHub Streak" />
+  <!-- Replace the src below with your own footer wave image URL if you have one -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00223E,100:1D976C&height=150&section=footer" width="100%"/>
 </p>
