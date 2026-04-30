@@ -17,10 +17,9 @@
 
 ### 🚀 Featured Engineering Projects
 
-| 🔥 Early Forest Fire Detection System | 👤 FaceRec Attendance + Mail |
+| 🤖 Mock Mentor | 👤 FaceRec Attendance + Mail |
 | :--- | :--- |
-| An AI/ML-based system that detects early signs of forest fires using **computer vision and deep learning** on satellite and CCTV imagery. Provides real-time alerts to help prevent large-scale environmental damage.<br><br><i>Python • Machine Learning • Computer Vision • OpenCV</i> | Automated security system utilizing **OpenCV** for real-time face recognition. Features an integrated SMTP trigger for instant email notifications upon detection.<br><br><i>Python • OpenCV • Automation</i> |
-
+| Implemented a **full-stack AI mock interview platform** utilizing live webcam integration and conversational memory to generate dynamic, resume-tailored questions and data-driven performance analytics.<br><br><i>React.js • Node.js • Google Gemini API • Supabase • WebRTC</i> | Automated security system utilizing **OpenCV** for real-time face recognition. Features an integrated SMTP trigger for instant email notifications upon detection.<br><br><i>Python • OpenCV • Automation</i> |
 ---
 
 ### 🛠️ Tech Stack
