@@ -3,13 +3,7 @@
   <img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=Your+Name+Here" alt="Profile Banner" width="100%">
 </p>
 
----
 
-### ⚡ Technical Philosophy
-
-> "Building at the intersection of robust web architecture and intelligent data systems. I focus on creating tools that don't just display data, but understand it."
-
----
 
 ### 🛠️ Core Engineering Stack
 
