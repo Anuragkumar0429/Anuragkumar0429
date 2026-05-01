@@ -1,70 +1,71 @@
-<p align="center">
-  <!-- Replace the src below with your own banner image URL if you have one -->
-  <img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=Your+Name+Here" alt="Profile Banner" width="100%">
-</p>
+<div align="center">
 
+<!-- You can replace this text block with an actual banner image if you design one -->
+# Anurag Kumar Upadhyay
 
+<h3 align="center">Full-Stack AI Developer</h3>
+
+</div>
+
+<!-- Gradient Line Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### ⚡ Technical Philosophy
+
+> "Building intelligent systems to learn, growing through innovation, and coding to solve real-world problems with full-stack AI."
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 🛠️ Core Engineering Stack
 
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | `Python`, `Java`, `C`, `JavaScript` |
-| **Frontend** | `HTML5`, `CSS3`, `Modern JS` |
-| **Specialized** | `Deep Learning (CNN)`, `OpenCV`, `Data Analysis` |
+| **Languages** | `JavaScript`, `Python`, `C/C++` |
+| **Frontend** | `React.js`, `HTML5`, `CSS3` |
+| **Backend** | `Node.js`, `Express`, `SMTP` |
+| **Specialized** | `AI APIs`, `OpenCV`, `Haar Cascades`, `Compiler Design` |
 
----
+<br>
 
-### 🚀 Featured Engineering Projects
-
-| 🤖 Mock Mentor | 👤 FaceRec Attendance + Mail |
-| :--- | :--- |
-| Implemented a **full-stack AI mock interview platform** utilizing live webcam integration and conversational memory to generate dynamic, resume-tailored questions and data-driven performance analytics.<br><br><i>React.js • Node.js • Google Gemini API • Supabase • WebRTC</i> | Automated security system utilizing **OpenCV** for real-time face recognition. Features an integrated SMTP trigger for instant email notifications upon detection.<br><br><i>Python • OpenCV • Automation</i> |
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
+<div align="center">
+  <!-- Dynamic Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,tensorflow,opencv,pandas,git,github,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,c,cpp,html,css,github,vscode" alt="Anurag's Skills" />
   </a>
-</p>
+</div>
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 🐍 Contribution Activity
 
-<p align="center">
-  <!-- This generates the contribution snake animation. Make sure to setup the GitHub Action for it, or replace with a static image -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<!-- NOTE: To make this snake animation work, you will need to set up a GitHub Action. 
+     Replace YOUR_GITHUB_USERNAME with your actual username below -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  <a href="mailto:your-email@iilm.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
----
+<br>
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Analytics Card" />
-</p>
-
-<p align="center">
-  <!-- Replace the src below with your own footer wave image URL if you have one -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00223E,100:1D976C&height=150&section=footer" width="100%"/>
-</p>
+<!-- Replace YOUR_GITHUB_USERNAME with your actual username below -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Anurag's GitHub stats" />
+</div>
