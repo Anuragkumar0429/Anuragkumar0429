@@ -3,7 +3,7 @@
 <!-- You can replace this text block with an actual banner image if you design one -->
 # Anurag Kumar Upadhyay
 
-<h3 align="center">Full-Stack AI Developer</h3>
+
 
 </div>
 
