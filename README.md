@@ -1,10 +1,12 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anurag+Kumar+Upadhyay;Full-Stack+AI+Developer+%F0%9F%9A%80;Building+Intelligent+Systems+%F0%9F%A4%96;Learning+Through+Innovation+%F0%9F%92%A1;Solving+Real-World+Problems+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anurag+Kumar+Upadhyay;)](https://git.io/typing-svg)
 
 
 **Full-Stack Developer · AI Enthusiast · Compiler Designer**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Full-Stack+AI+Developer+%F0%9F%9A%80;Learning+Through+Innovation+%F0%9F%92%A1;Solving+Real-World+Problems+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 
 </div>
