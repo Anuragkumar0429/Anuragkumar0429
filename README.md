@@ -66,11 +66,13 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 🚀 What I Build
-
+```
 🤖  AI-Powered Applications     →   Integrating LLMs & Vision APIs into real products
 🌐  Full-Stack Web Apps         →   React frontends + Node.js backends
 🔬  Computer Vision Systems     →   OpenCV, Haar Cascades, real-time detection
 ⚙️  Compiler Design             →   7-phase integer literal compiler pipeline
+
+```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
