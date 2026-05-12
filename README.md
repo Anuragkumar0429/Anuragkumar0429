@@ -20,6 +20,30 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+### 🗓️ Coding Journey — Days in the Making
+
+<div align="center">
+
+![Days Coding](https://img.shields.io/badge/Coding%20Since-2023-00f7ff?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Open%20to%20Work-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🚀 Milestone | 📅 Year | 💡 Focus |
+|:---:|:---:|:---:|
+| Started Coding | 2023 | C / C++ Fundamentals |
+| Web Dev Journey | 2023 | HTML · CSS · JavaScript |
+| Full-Stack Era | 2024 | React · Node.js · Express |
+| AI Integration | 2024–2025 | LLMs · OpenCV · Compiler Design |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 ### 🛠️ Core Engineering Stack
 
 | Category | Stack |
@@ -43,12 +67,10 @@
 
 ### 🚀 What I Build
 
-```
 🤖  AI-Powered Applications     →   Integrating LLMs & Vision APIs into real products
 🌐  Full-Stack Web Apps         →   React frontends + Node.js backends
 🔬  Computer Vision Systems     →   OpenCV, Haar Cascades, real-time detection
 ⚙️  Compiler Design             →   7-phase integer literal compiler pipeline
-```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -86,6 +108,18 @@
   <a href="https://github.com/Anuragkumar0429">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+
+### 📌 LinkedIn Snapshot
+
+[![LinkedIn Profile](https://img.shields.io/badge/-Anurag%20Kumar%20Upadhyay-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anurag-kumar-upadhyay-9a2105285/)](https://www.linkedin.com/in/anurag-kumar-upadhyay-9a2105285/)
+
+> 🔗 **[View Full Profile & Coding Activity on LinkedIn →](https://www.linkedin.com/in/anurag-kumar-upadhyay-9a2105285/)**
+
 </div>
 
 <br>
